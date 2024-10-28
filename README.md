@@ -1,5 +1,3 @@
-![Profile Image](Img.jpeg)
-
 # My Skills
 
 ## Programming Languages
