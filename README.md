@@ -1,6 +1,6 @@
 # My Skills
 
-![Profile Image](IMG_0186) #Youssef #Sherbiney(YSherbo)
+![Profile Image](IMG_0186.jpg) #Youssef Sherbiney(YSherbo)
 
 ## Programming Languages
 - **Python**
