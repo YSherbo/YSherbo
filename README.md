@@ -1,5 +1,7 @@
 # My Skills
 
+![Profile Image](IMG_0186) #Youssef #Sherbiney(YSherbo)
+
 ## Programming Languages
 - **Python**
 - **C++**
@@ -14,6 +16,9 @@
 
 ## Frontend Development
 - **Advanced Skills**
+
+## Operating Systems
+- **Linux (Advanced)**
 
 ## Ethical Hacking
 - **Intermediate**
