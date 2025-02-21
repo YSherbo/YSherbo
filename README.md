@@ -1,5 +1,4 @@
 
-![Profile Image](IMG_0186.jpg) 
 # Youssef Sherbiney(YSherbo)
 
 # My Skills
