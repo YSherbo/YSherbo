@@ -11,12 +11,14 @@
 
 ## Game Development
 - **Unity**
+- **Unreal**
 
 ## Backend Development
 - **Node.js**
+- **MongoDB**
 
 ## Frontend Development
-- **Advanced Skills**
+- **Advanced Skills With JQuery, HtTML/CSS**
 
 ## Operating Systems
 - **Linux (Advanced)**
@@ -25,4 +27,4 @@
 - **Intermediate**
 
 ## Learning Journey
-- **Currently learning Arduino**
+- **Currently learning Electronics**
