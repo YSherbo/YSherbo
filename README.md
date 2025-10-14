@@ -1,3 +1,4 @@
+Hello 👋, I'm
 # Youssef Sherbiney(YSherbo)
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/YSherbo/stats)
@@ -5,27 +6,27 @@
 ![Github Quirk](https://greptile-stats.vercel.app/api/widget/YSherbo/quirk)
 
 ## Programming Languages
-- **Python**
-- **C++**
-- **C#**
-- **C**
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,c)](https://skillicons.dev)
 
 ## Game Development
-- **Unity**
-- **Unreal**
 
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
 ## Backend Development
-- **Node.js**
-- **MongoDB**
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,express)](https://skillicons.dev)
 
 ## Frontend Development
-- **Advanced Skills With JQuery, HtTML/CSS**
 
-## Operating Systems
-- **Linux (Advanced)**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react)](https://skillicons.dev)
+
+## Operating Systems(I use Arch btw)
+
+[![My Skills](https://skillicons.dev/icons?i=arch,debian,kali,ubuntu,redhat,linux,windows)](https://skillicons.dev)
 
 ## Ethical Hacking
-- **Intermediate**
+- **Intermediate, Training myself on Hack The Box**
 
-## Learning Journey
-- **Currently learning Electronics**
+## Electronics
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,cpp,python)](https://skillicons.dev)
