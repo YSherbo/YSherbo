@@ -1,7 +1,8 @@
-
 # Youssef Sherbiney(YSherbo)
 
-# My Skills
+![Github Stats](https://greptile-stats.vercel.app/api/widget/YSherbo/stats)
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/YSherbo/contributions)
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/YSherbo/quirk)
 
 ## Programming Languages
 - **Python**
