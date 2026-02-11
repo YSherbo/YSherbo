@@ -1,8 +1,6 @@
 Hello 👋, I'm
 # Youssef Sherbiney(YSherbo)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YSherbo)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,c)](https://skillicons.dev)
