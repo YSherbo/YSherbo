@@ -1,9 +1,7 @@
 Hello 👋, I'm
 # Youssef Sherbiney(YSherbo)
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/YSherbo/stats)
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/YSherbo/contributions)
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/YSherbo/quirk)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YSherbo&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Programming Languages
 
