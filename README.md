@@ -7,7 +7,7 @@ Hello 👋, I'm
 
 ## Game Development
 
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 ## Backend Development
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,express)](https://skillicons.dev)
@@ -18,11 +18,11 @@ Hello 👋, I'm
 
 ## Operating Systems(I use Arch btw)
 
-[![My Skills](https://skillicons.dev/icons?i=arch,debian,kali,ubuntu,redhat,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,windows)](https://skillicons.dev)
 
 ## Ethical Hacking
 - **Intermediate, Training myself on Hack The Box**
 
 ## Electronics
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,python)](https://skillicons.dev)
