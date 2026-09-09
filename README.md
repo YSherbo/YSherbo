@@ -16,10 +16,6 @@ Hello 👋, I'm
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react)](https://skillicons.dev)
 
-## Operating Systems(I use Arch btw)
-
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,windows)](https://skillicons.dev)
-
 ## Ethical Hacking
 - **Intermediate, Training myself on Hack The Box**
 
